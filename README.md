@@ -45,6 +45,7 @@ Thank you so much to the following contributors for providing awesome portals.
 - `Twitch.html` by [roshanravan](https://github.com/roshanravan)
 - `apple.html` by [Jules](https://github.com/jules0835)
 - `Frequency.html` by [roshanravan](https://github.com/roshanravan)
+- `instagram_new.html` by [projektwr](https://github.com/projektwr)
 
 ## Disclaimer
 
